@@ -5,13 +5,13 @@ import "firebase/compat/storage";
 
 // Your web app's Firebase configuration
 const firebaseApp = firebase.initializeApp({
-    apiKey: "AIzaSyBBUw7yg1zCUACpSTvM5W4Fw3kFpcAP7zc",
-    authDomain: "ibca-server.firebaseapp.com",
-    databaseURL: 'https://ibca-server.firebaseio.com',
-    projectId: "ibca-server",
-    storageBucket: "ibca-server.appspot.com",
-    messagingSenderId: "539416146913",
-    appId: "1:539416146913:web:84b64253bc4ca382f398a0",
+    apiKey: "xxx",
+    authDomain: "xxx",
+    databaseURL: 'xxx',
+    projectId: "xxx",
+    storageBucket: "xxx",
+    messagingSenderId: "xxx",
+    appId: "xxx",
 });
 
 // Export
