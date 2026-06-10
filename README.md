@@ -8,15 +8,15 @@
 - Offline-friendly local persistence with AsyncStorage
 - Event tracking, goals, and member engagement management
 
-## 1. The Problem
+## The Problem
 
 Community teams need a reliable way to organize events, track member engagement, and keep important information accessible during day-to-day activities. The challenge is building a community management tool that works offline and syncs member data reliably, while still being simple enough to use on mobile devices.
 
-## 2. The Solution
+## The Solution
 
 IBCA App is a cross-platform mobile solution for tracking events and member engagement. It combines calendar-based planning, member records, goal tracking, Firebase-backed data storage, and local persistence so the app can remain useful even when connectivity is limited.
 
-## 3. Technologies
+## Technologies
 
 - React Native
 - Expo
@@ -28,7 +28,7 @@ IBCA App is a cross-platform mobile solution for tracking events and member enga
 - AsyncStorage
 - React Native Calendars
 
-## 4. How to Run
+## How to Run
 
 ### Prerequisites
 
